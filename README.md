@@ -1,3 +1,3 @@
 # Resume GitHub
 
-## Ini halaman gambar
+## Ini halaman gambar resolved
